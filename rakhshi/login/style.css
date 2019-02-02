@@ -1,0 +1,156 @@
+@charset "utf-8";
+/* CSS Document */
+*
+{
+	padding:auto;
+	margin:auto;
+}
+.container
+{
+	width:100%;
+	height:740px;
+	float:left;
+	background:#9F0;
+	margin:0 auto;
+}
+.main_outer
+{
+	width:525;
+	height:350;
+	float:left;
+	background:#f0f3f7;
+	margin:200px 0 0 470px;
+}
+.main_inner
+{
+	width:355px;
+	height:245px;
+	margin:45px 80px;
+	background:#fff;
+	border:1px solid #ccc;
+}
+.heading
+{
+	width:auto;
+	height:auto;
+	float:left;
+	margin:0 auto;
+}
+.heading p
+{
+	width:auto;
+	height:auto;
+	float:left;
+	font-family:"Times New Roman", Times, serif;
+	font-size:18px;
+	color:#14528a;
+	margin:30px 0 0 56px;
+}
+.fill_form
+{
+	width:235px;
+	height:35px;
+	float:left;
+	border:1px solid #dadada;
+	margin:10px 0 0 56px;
+	background:#dadada;
+	border-radius:4px;
+	
+}
+.image
+{
+	width:20px;
+	height:20px;
+	float:left;
+	margin:0 auto;
+}
+.image img
+{
+	width:auto;
+	height:auto;
+	float:left;
+	margin:10px 10px;
+}
+.fill_form input
+{
+	width:200px;
+	height:96%;
+	float:right;
+	border:none;
+	border:0px;
+	background:#dadada;
+}
+.fill_form2
+{
+	width:235px;
+	height:35px;
+	float:left;
+	border:1px solid #dadada;
+	margin:10px 0 0 56px;
+	background:#dadada;
+	border-radius:4px;
+	
+}
+.image2
+{
+	width:20px;
+	height:20px;
+	float:left;
+	margin:0 auto;
+}
+.image2 img
+{
+	width:auto;
+	height:auto;
+	float:left;
+	margin:10px 10px;
+}
+.fill_form2 input
+{
+	width:200px;
+	height:96%;
+	float:right;
+	border:none;
+	border:0px;
+	background:#dadada;
+}
+.forget
+{
+	width:auto;
+	height:auto;
+	float:left;
+	margin:30px 0 0 56px;
+}
+.forget p
+{
+	width:auto;
+	height:auto;
+	float:left;
+	font-family:time "Times New Roman", Times, serif;
+	font-size:18px;
+	background:url(button.jpg) right no-repeat;
+	padding:0 12px 0 0;
+}
+.login_button
+{
+	width:auto;
+	height:auto;
+	float:right;
+}
+.login_button button
+{
+	height:42px;
+	width:80px;
+	background-color:#03F;
+	color:#fff;
+	font-size:17px;
+	font-family:"Times New Roman", Times, serif;
+	margin:10px 56px 0 0;	
+    border-style:solid;
+	border-radius:4px;
+}
+
+
+
+
+

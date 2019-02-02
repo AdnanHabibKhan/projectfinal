@@ -1,0 +1,2 @@
+if($('.cookie-banner').length){$(".cookie-banner').slideDown(1200);
+}
